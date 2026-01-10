@@ -150,6 +150,11 @@ The dataset includes the following key attributes:
 The HR Analytics Dashboard converts raw HR data into actionable workforce insights, helping organizations reduce attrition, improve employee satisfaction, and make strategic HR decisions backed by data.
 
 
+<img width="925" height="517" alt="HR_analytics Excel-Dashboard" src="https://github.com/user-attachments/assets/7d88f4f8-362f-4b93-bac8-88f808a8864e" />
+
+
+
+
 **👤 Author**
 
 **Praveen Singh Thakur**
