@@ -151,7 +151,9 @@ The HR Analytics Dashboard converts raw HR data into actionable workforce insigh
 
 
 **👤 Author**
+
 **Praveen Singh Thakur**
+
 Aspiring Data Analyst | HR Analytics Enthusiast
 
 
